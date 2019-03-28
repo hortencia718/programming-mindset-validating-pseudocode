@@ -58,7 +58,7 @@ So for `DivideBaguetteEvenly`, we can create the following table:
 |Local: `piece`|||||||||||
 |Local: `rest`|||||||||||
 
-We'll "plug in" some data for `DivideBaguetteEvenly` use and then we'll step
+We'll "plug in" some data for `DivideBaguetteEvenly` to use and then we'll step
 through, line by line and update the "state" or the "values" of the variables
 as we work through the _Procedure_'s function. We'll check our output against our
 expectations and make sure our logic is right.
@@ -142,3 +142,7 @@ programming.
 The final step (and, to be honest, it's also expected in whiteboard interviews)
 is to take these ideas and turn them into code in a particular language. Let's
 take our `baguette_length` dividing _Procedure_ and turn it into Ruby code.
+
+## Resources
+
+- [State Table Example](http://dept-info.labri.u-bordeaux.fr/~strandh/Teaching/Architecture/Common/Strandh-Tutorial/state-table.html)
